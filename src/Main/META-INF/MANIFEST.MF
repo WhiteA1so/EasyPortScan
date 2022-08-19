@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main.MainApp
+Permissions: sandbox
+JavaFX-Version: 8.0
+Created-By: JavaFX Packager
